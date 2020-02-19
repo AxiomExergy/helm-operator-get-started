@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: garzparz/podinfo
-      tag: dev-bxltsbxh
+      tag: dev-jtk8g0kr
     replicaCount: 1
     hpa:
       enabled: false
